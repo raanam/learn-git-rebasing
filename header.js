@@ -4,6 +4,8 @@
 8
 3
 4
+1
+2
 import React from "react";
 
 import "./header.css";
