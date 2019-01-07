@@ -13,6 +13,8 @@ import React from "react";
 import "./header.css";
 A
 B
+R
+L
 import { connect } from "react-redux";
 import symbol from "../../img/symbol.png";
 import healthswim from "../../img/Logo.png";
