@@ -2,13 +2,11 @@
 6
 7
 8
-9
-10
+3
+4
 import React from "react";
 
 import "./header.css";
-c
-d
 import { connect } from "react-redux";
 import symbol from "../../img/symbol.png";
 import healthswim from "../../img/Logo.png";
@@ -179,5 +177,3 @@ const Header = connect(
 )(HeaderComponent);
 
 export default Header;
-a
-b
